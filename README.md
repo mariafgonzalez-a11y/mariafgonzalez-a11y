@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Maria Fernanda "Mafe" e este é meu perfil</h1>
-<h3 align="center">Estudante de curso técnico no Senai.</h3>
+<h3 align="center">Cursando técnica de programação de jogos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariafgonzalez-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="mariafgonzalez-a11y" /> </p>
 
@@ -15,3 +15,4 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariafgonzalez-a11y&show_icons=true&locale=en" alt="mariafgonzalez-a11y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariafgonzalez-a11y&" alt="mariafgonzalez-a11y" /></p>
+
