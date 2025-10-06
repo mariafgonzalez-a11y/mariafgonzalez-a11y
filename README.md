@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariafgonzalez-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="mariafgonzalez-a11y" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariafgonzalez-a11y" alt="mariafgonzalez-a11y" /></a> </p>
-
-<h3 align="left">Conecte-se com eu:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
 
@@ -17,4 +15,3 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariafgonzalez-a11y&show_icons=true&locale=en" alt="mariafgonzalez-a11y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariafgonzalez-a11y&" alt="mariafgonzalez-a11y" /></p>
-
