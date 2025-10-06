@@ -18,3 +18,4 @@
 
 <img width="480" height="260" alt="image" src="https://github.com/user-attachments/assets/281aecb0-85ce-4815-8f9e-c26778a45c60" />
 ![Uploading giphy.gif…]()
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FoNTJqbm91OTllaHpoZ294NWxxa3Fqd3hvZm9iYmdxdGI0Yjk4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PcGMeFVvmCgIkxpIwz/giphy.gif
