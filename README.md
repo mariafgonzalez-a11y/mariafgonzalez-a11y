@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Maria Fernanda "Mafe" e este é meu perfil</h1>
-<h3 align="center">Cursando técnica de programação de jogos.</h3>
+<h3 align="center">Cursando técnico de programação de jogos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariafgonzalez-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="mariafgonzalez-a11y" /> </p>
 
